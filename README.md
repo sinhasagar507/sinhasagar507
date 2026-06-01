@@ -11,7 +11,7 @@
 <h1 align="center">Hi, I'm Sagar Sinha 👋</h1>
 
 <p align="center">
-  <b>RAG &amp; LLM | Data Scientist | Data Analyst</b><br/>
+  <b>RAG &amp; LLM | Data Scientist | Data Analyst | Software Engineer </b><br/>
   MS Computer Science @ Arizona State University (May 2026)
 </p>
 
